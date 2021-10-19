@@ -1,0 +1,28 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.link{
+  margin: 10px;
+}
+
+.btn{
+  margin-top: 10px;
+}
+.p{
+  display: inline;
+}
+#btn-order{
+  width: 250px;
+  height: 100px;
+
+}
+.p-order{
+  color: blue;
+  font-size: 16px;
+}
